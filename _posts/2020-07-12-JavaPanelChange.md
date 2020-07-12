@@ -52,7 +52,8 @@ new는 main에서 생성을해서 관리하도록하고 컨트롤타워는 모�
 그럼 바로 메인코드로 가보자.  
 
 
-```	public static void main(String[] args) {
+<blackquote>	
+public static void main(String[] args) {
 		ControlTower ct = new ControlTower();
 		ct.firstUi = new FirstUI(ct);
 		ct.ticketUi = new TicketingUI(ct);
@@ -66,13 +67,14 @@ new는 main에서 생성을해서 관리하도록하고 컨트롤타워는 모�
 		ct.setLocationRelativeTo(null);
 	}
 
-```  
+</blackquote>  
   
 메인에서는 new를 통해 주소값을 생성하고 컨트롤타워(패널변경)의 권한을 넘겨준다.  
   
 조금 더 보충설명을 위해 다음코드도 적어본다.  
 
-```
+
+<blackquote>
 class FirstUI extends JPanel implements ActionListener{
 	ControlTower ct;
 	JButton ticketing;
@@ -103,7 +105,8 @@ class FirstUI extends JPanel implements ActionListener{
 			ct.changePanel("ticketUi");
 		}
 	}
-```
+}
+</blackquote>
 
 액션리스너를 통해 actionPerformed에 들어오게 되면 e.getSource로 어떤 액션에서 받아왔는지 확인하고 
 그확인한것이 equal을 통해 ticketing과 비교해서 맞으면 if문 안으로 들어와 ct(컨트롤타워)에 있는 panelName의 이름을
