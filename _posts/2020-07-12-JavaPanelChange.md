@@ -15,7 +15,7 @@ categoris : Blog
 그때 썼던 코드는 dispose()를 통해 화면을 닫고 새로여는 방식이였는데 지금 개인 프로젝트를 하면서 더 좋은 것을 알게 되었다.  
 그것은 바로 panel을 통한 화면전환 방식이다.  
 바로 코드부터 보여드릴려고 한다.  
-```
+<blackquote>
 public class ControlTower extends JFrame{
 	public String panelName = null;
 	
@@ -44,7 +44,7 @@ public class ControlTower extends JFrame{
 	}
 }
 
-```
+</blackquote>
 
 하나의 컨트롤 타워를 만들고 컨트롤타워에서 패널들을 만들어준다.  
 new는 main에서 생성을해서 관리하도록하고 컨트롤타워는 모든 클래스에서 사용할 수있도록 메인에서 뿌려준다.  
