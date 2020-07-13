@@ -1,6 +1,6 @@
 ---
 
-layout : post
+layout : posts
 
 title : "jekyll를 이용한 블로그 시작" 
 
