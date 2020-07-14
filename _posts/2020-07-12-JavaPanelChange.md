@@ -76,6 +76,8 @@ public static void main(String[] args) {
   
 메인에서는 new를 통해 주소값을 생성하고 컨트롤타워(패널변경)의 권한을 넘겨준다.  
   
+`ct.add`는 첫화면에서 보여줄것을 넣는것이다.  
+  
 조금 더 보충설명을 위해 다음코드도 적어본다.  
 
 
@@ -117,7 +119,7 @@ class FirstUI extends JPanel implements ActionListener{
   
 그확인한것이 `equal`을 통해 ticketing과 비교해서 맞으면 if문 안으로 들어와 ct(컨트롤타워)에 있는 `panelName`의 이름을 바꿔주는 것이다.  
    
-참고로 changePanel은 패널을 바꾸기위한 메서드이다.
+참고로 changePanel은 패널을 바꾸기위한 내가 만든 메서드이다.
 
 
 
