@@ -2,7 +2,7 @@
 
 layout : posts
 
-title : "자바 URL에 연결해서 이미지 얻어오기"
+title : "자바 ActionListener 사용법"
 
 date : 2020-07-14
 
@@ -39,7 +39,7 @@ categoris : java
 
 ActionListener를 사용하기 위해서는 implements로 가져와야 합니다.
 
-**상속(extends)** 은 하나만 가지고 올수 있지만, **인터페이스( implements)** 는 여러개를 상속 받아 올수 있기 때문에 `ActionListener` 뿐만 아니라 `ListSelectionListener` 같은 것도 같이 가져올수 있습니다. 
+**상속(extends)** 은 하나만 가지고 올수 있지만, **인터페이스( implements)** 는 여러개를 상속 받아 올수 있기 때문에 `ActionListener` 뿐만 아니라 `ListSelectionListener` 같은 것도 같이 가져올수 있습니다.
 
 그리고 JButton을 눌려졌을때 액션을 받아와야 하기 때문에 꼭!! **addActionListener** 를 적어주셔야 합니다.
 
