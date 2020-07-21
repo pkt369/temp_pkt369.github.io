@@ -6,7 +6,7 @@ title : "자바 Database연동2"
 
 date : 2020-07-19
 
-categoris : java
+categoris : Java
 
 ---
 

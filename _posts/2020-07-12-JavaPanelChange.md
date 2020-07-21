@@ -6,7 +6,7 @@ title : "자바 스윙 패널을 통한 화면전환"
 
 date : 2020-07-12
 
-categoris : posts
+categoris : Java
 
 author_profile : true
 
