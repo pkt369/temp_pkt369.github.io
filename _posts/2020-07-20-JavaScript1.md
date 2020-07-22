@@ -2,13 +2,14 @@
 
 layout : posts
 
-title : "자바스크립트 문법 정리"
+title : "자바스크립트 문법 정리1"
 
 date : 2020-07-20
 
 categoris : JavaScript
 
 ---
+2편은 [JavaScript 2편](https://pkt369.github.io/JavaScript2/)은 여기로 가면 된다.
 
 자바 스크립트는 자바와 비슷한 문법으로 웹을 꾸밀때 사용되는 언어이다.
 
@@ -20,42 +21,85 @@ html, css, JavaScript 총 3개가 프런트개발자의 대표적인 언어이�
 
 **주석문** : `//`, `/* */` -> 자바와 같음(단축키 : ctrl+shift + /)
 
+<br>
+
 **알림창** : `alert("내용")` -> 팝업창에 내용이 뜸
 
 **자바스크립트는 대문자와 소문자 구분이 없다.**
 
 `alert("Hello, \"World\" ")` : **자바와 같이 똑같이 이스케이스 시퀀스가 사용가능하다**
 
+<br>
+
+
 **변수** : `var` -> 자바와 달리 스크립트는 var로 모든 변수를 선언할수 있다.
 
+<br>
+
+
 **자료형 검사** : `typeof(exam)` -> 무슨 타입인지 가르쳐준다 ex) string, number, 선언x : undefined
+
+<br>
+
 
 **입력** : `prompt('이름을 입력하세요.','두 글자 이상 입력')`
 ![prompt](https://user-images.githubusercontent.com/66049273/88000457-a4b2a680-cb38-11ea-9fe8-3855b4e633bb.png)
 
 boolean으로 입력 받기 : `confirm()`
 
+<br>
+
+
 **자료형변환** :
 * 덧셈 : `alert(12+345)` -> 357, `alert(12 +'345')` -> 12345, `alert('12' + '345')` ->12345
 * 덧셈을 제외한 나머지 사칙연산 : alert('12' * 3) -> 36 : 문자열이어도 숫자로 변환.
 
+<br>
+
+
 **강제자료형변환** : 숫자 -> `Number(input)`, 문자열 -> `String(input)`
+
+<br>
+
 
 **산술연산자** : `+, -, *, /, %`
 
+<br>
+
+
 **비교연산자** : `<, >, <=, >=, ==, !=`
+
+<br>
+
 
 **논리연산자** : `&&, ||, !`
 
+<br>
+
+
 **배열** : `var array = [123, 'string', 'true', function(){}];` -> 배열에는 모든지 다 들어갈 수 있다.
+
+  <br>
+
 
 **if문** : `if(a > b){}` -> 자바와 같다.
 
+  <br>
+
+
 **switch문** : `switch(i % 2 == 0)case: break;` -> 자바와 같다.
+
+<br>
+
 
 **삼항연산자** : `a > 2 : alert(양수) ? alert(음수)` -> 조건 : 참 ? 거짓
 
-**짧은 조건문** : 조건 || false이면 실행, 조건 && true면 실행
+<br>
+
+**짧은 조건문** : `조건 || false`이면 실행, `조건 && true`면 실행
+
+<br>
+
 
 <hr>
 
@@ -63,14 +107,29 @@ boolean으로 입력 받기 : `confirm()`
 
 **while** : `while(조건문){}`
 
+  <br>
+
+
 **do ~ while** : `do {} while(조건문);` -> while과 다른점은 do~while은 **무조건 한번 실행** 을 하고 조건문을 검사한다.
+
+  <br>
+
 
 **for문** : `for(var a = 0; a < 5; a++) {}` -> 포문의 진행 순서 :  
   var a = 0(선언) - a < 5(비교) - {}(내용실행) - a++(연산) - 다시비교 - 내용실행 반복
 
+<br>
+
+
 **for in문** : `for(var a in array){alert(array[a])}`
 
+<br>
+
+
 **break** : 반복문 빠져나가기.
+
+<br>
+
 
 **continue** : 만나면 밑에 내용 실행하지 않고 비교문으로 다시 이동.
 
@@ -82,6 +141,9 @@ boolean으로 입력 받기 : `confirm()`
 * 익명함수 : 이름이 없는 함수
 * 선언적함수 : 이름이 있는 함수
 
+<br>
+
+
 **함수 재정의**
 * 익명함수 재정의 : `var func = function(){alert('함수')}`  
  !) var func = 이렇게 두번 선언하면 오류가 걸리지 않는것처럼 보이지만 실제로는 오류사항이다.
@@ -89,35 +151,53 @@ boolean으로 입력 받기 : `confirm()`
 * 선언적함수 재정의 : `function move(){alert("함수호출")}`  
  **웹브라우저는 script태그 내부의 내용을 다 읽기전에 선언적함수를 먼저 읽는다.** -> 함수를 먼저 적고 정의를 뒤쪽에 적어도 실행이 된다.
 
+ <br>
+
+
 **매개변수** :
 * `alert()` : 두번째 매개변수는 무시한다.
 * `prompt()` : 두번째 매개변수에 아무것도 쓰지않으면 undefined이 된다.
 * `Array()` : 매개변수에 아무것도 없는것이 기본, 빈배열만듦,
 * `Array(10)` : 매개변수의 크기를 가지는 배열 생성, `Array(10, 3, 55, 6)` : 매개변수를 가지는 배열 생성
 
+<br>
+
+
 **가변인자** : `function leng() {alert("길이 : " + leng.length);}` -> 매개변수의 갯수가 변할수 있는 함수.
+
+<br>
+
 
 **리턴** : 함수에서 아무값없이 return;하면 함수종료, 값이 있으면 값을 반환한다.
 
+<br>
+
+
 **내장 함수** :
-- escape() : 영문 알파벳, 숫자, 일부 특수문자`(@, *, -, _, +, ., /)`를 제외한 모든 문자를 인코딩한다.  1바이트문자는 %XX의 형태로, 2바이트 문자는 %uXXXX의 형태로 변환한다.
+- `escape()` : 영문 알파벳, 숫자, 일부 특수문자`(@, *, -, _, +, ., /)`를 제외한 모든 문자를 인코딩한다.  1바이트문자는 %XX의 형태로, 2바이트 문자는 %uXXXX의 형태로 변환한다.
 <br>
-- encodeURI() : .escape() 함수에서 인터넷 주소에 사용되는 일부 특수문자(:, ;, ?, =, &)는 변환하지 않는다.
+- `encodeURI()` : .escape() 함수에서 인터넷 주소에 사용되는 일부 특수문자(:, ;, ?, =, &)는 변환하지 않는다.
 <br>
--  encodeURIComponent() : 알파벳과 숫자를 제외한 모든 문자를 인코딩한다, UTF-8 인코딩과 같다.
+-  `encodeURIComponent()` : 알파벳과 숫자를 제외한 모든 문자를 인코딩한다, UTF-8 인코딩과 같다.
 <br>
--  eval(string) : string을 자바스크립트로 실행.
+-  `eval(string)` : string을 자바스크립트로 실행.
 <br>
-- isFinite(number) : number가 무한한 값인지 확인.
+- `isFinite(number)` : number가 무한한 값인지 확인.
 <br>
-- isNaN(number) : number가 NaN(Not a Number:변수)인지 확인.
+- `isNaN(number)` : number가 NaN(Not a Number:변수)인지 확인.
 <br>
-- parseInt() 함수 & parseFloat() 함수 : int, float으로 변경 -> 문자부터 시작하면 NaN 반환, 공백무시
+- `parseInt() 함수 & parseFloat() 함수` : int, float으로 변경 -> 문자부터 시작하면 NaN 반환, 공백무시
 
 <hr>
 <h4>Object(객체)</h4>
 
+<br>
+
+
 **객체 생성 - 키:요소** : `var product = { name:"TV", 제조사:"한국" };`, `alert(product.name)` or `alert(product['제조사'])`
+
+<br>
+
 
 **객체 동적 추가/제거** : `var a ={};`,  
   동적으로 추가 `a.student = "학생;"` ,  
@@ -156,7 +236,7 @@ push는 자바의 add와 같은 기능(배열에 값 추가)
 - 생성자 함수를 선언.
 - 자바처럼 구체적이지않고 사실상 상속의 개념이 없다고 봐도 무방하다. - 정해지지않음.
 - 첫글자를 대문자로하면 생성자로 하겠다는 프로그래머들의 약속이 있다.
-```JavaScript
+```java
 function Rectangle(w,h){
     var width = w; //지역변수, 필드로 선언이 되고 싶으면 this.을 써야한다.
     var height = h;
@@ -199,3 +279,5 @@ function Rectangle(w,h){
 상속 말만 쓰면 어려울것같아서 코드로 대체했다.
 
 다음은 조금더 심화되고 동적인 자바스크립트의 포스팅을 할것이다.
+
+다음편은 [JavaScript 2편](https://pkt369.github.io/JavaScript2/) 여기로 들어가면된다.
