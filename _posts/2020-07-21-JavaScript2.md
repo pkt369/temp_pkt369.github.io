@@ -192,3 +192,5 @@ willRemove2.parentNode.removeChild(willRemove2);
 
 원래는 2편으로 끝낼려했지만 생각보다 길어져 3편까지 포스팅하기로 했습니다.
 3편 포스팅은 다음에 하겠습니다.
+
+1편은 여기로 -> [JavaScript 1편](https://pkt369.github.io/JavaScript1/)

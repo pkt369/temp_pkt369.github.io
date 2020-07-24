@@ -9,7 +9,10 @@ date : 2020-07-20
 categoris : JavaScript
 
 ---
-2편은 [JavaScript 2편](https://pkt369.github.io/JavaScript2/)은 여기로 가면 된다.
+자바 문법시리즈는
+- [자바스크립트 문법정리 2편](https://pkt369.github.io/JavaScript2/)
+- [자바스크립트 문법정리 3편](https://pkt369.github.io/JavaScript3/)
+여기로 들어가면 됩니다.
 
 자바 스크립트는 자바와 비슷한 문법으로 웹을 꾸밀때 사용되는 언어이다.
 
@@ -280,4 +283,7 @@ function Rectangle(w,h){
 
 다음은 조금더 심화되고 동적인 자바스크립트의 포스팅을 할것이다.
 
-다음편은 [JavaScript 2편](https://pkt369.github.io/JavaScript2/) 여기로 들어가면된다.
+자바 문법시리즈는
+- [자바스크립트 문법정리 2편](https://pkt369.github.io/JavaScript2/)
+- [자바스크립트 문법정리 3편](https://pkt369.github.io/JavaScript3/)
+로 들어가시면 됩니다.
