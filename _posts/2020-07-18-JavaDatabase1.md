@@ -11,7 +11,9 @@ categoris : java
 ---
 
 자바 프로젝트를 처음할 때 가장 힘들었던 것은 데이터 베이스와 연동해서 데이터를 주고 받는 것이었습니다.
+
 그때의 기분을 살려서 조금더 자세히 포스팅 해볼려고 합니다.
+
 첫편에서는 환경설정을 두번째편에서는 코드를 알아보려합니다.
 
 먼저 데이터 베이스와 연동하기 위해서는
@@ -36,7 +38,8 @@ categoris : java
 
 ![data2](https://user-images.githubusercontent.com/66049273/87856980-f2bf8280-c95d-11ea-8b7b-e6eef54c8923.png)
 
-저는 오라클을 사용하기때문에 오라클을 기준으로 하겠습니다.
+저는 오라클을 사용하기때문에 오라클을 기준으로 하겠습니다.  
+
 Next를 눌러줍시다.
 
 ![data3](https://user-images.githubusercontent.com/66049273/87856981-f3581900-c95d-11ea-890a-fd678b67043c.png)
@@ -46,9 +49,11 @@ Next를 눌러줍시다.
 ![data4](https://user-images.githubusercontent.com/66049273/87856982-f3f0af80-c95d-11ea-87c2-1ab8bf38a8ca.png)
 
 저같은 경우 Oracle Thin Driver 11입니다.
+
 그다음 **JAR List** 를 눌러주세요.(Name/Type옆에)
 
 그리고 **Add JAR/Zip..** 눌러주세요.
+
 그럼파일을 선택하라고 나올텐데 제가 올린  첫번째 사진의 주소로 들어가주세요.
 
 **C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib**
@@ -62,7 +67,9 @@ Next를 눌러줍시다.
 ![data6](https://user-images.githubusercontent.com/66049273/87857187-b2610400-c95f-11ea-8ab4-ae8e1869e6cb.png)
 
 적힌대로 써주세요. 설명을 조금 도와드리면
+
 **url : [DBMS이름] @ [주소] : [포트] : [데이터베이스 식별자]** 입니다.
+
 그리고 데이터베이스 id와 passwd를 입력해주세요.
 
 ![data7](https://user-images.githubusercontent.com/66049273/87857184-b12fd700-c95f-11ea-8219-f74cd862d4a7.png)
