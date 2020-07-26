@@ -12,7 +12,7 @@ categoris : R
 
 R 정형비정형 시리즈 1입니다.
 
-R 정형 비정형 시리즈 후편은 [R 정형 비정형 시리즈 2편](https://pkt369.github.io/R_Structured1)로 들어가시면 됩니다.
+R 정형 비정형 시리즈 후편은 [R 정형 비정형 시리즈 2편](https://pkt369.github.io/R_Structured2)로 들어가시면 됩니다.
 
 **단계1 - 토픽분석(텍스트 마이닝)**
 
@@ -137,4 +137,4 @@ ex) ![wordcloud1](https://user-images.githubusercontent.com/66049273/88483525-6b
 
 <br>
 
-R 정형 비정형 시리즈 후편은 [R 정형 비정형 시리즈 2편](https://pkt369.github.io/R_Structured1)로 들어가시면 됩니다.
+R 정형 비정형 시리즈 후편은 [R 정형 비정형 시리즈 2편](https://pkt369.github.io/R_Structured2)로 들어가시면 됩니다.
