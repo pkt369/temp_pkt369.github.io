@@ -2,16 +2,19 @@
 
 layout : posts
 
-title : "파이썬 기본 문법2"
+title : "파이썬 기본 문법2(튜플, 딕셔너리)"
 
 date : 2020-07-29
 
-categoris : Python
+categoris : python
 
 ---
 
-파이썬 기본문법 시리즈는
-- [파이썬 기본문법 시리즈1](pkt369.github.io/pythonBasic1)
+파이썬 기본문법 시리즈 2편입니다
+
+다른 파이썬 기본문법 시리즈는
+- [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
+- [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
 
 
 
@@ -22,7 +25,8 @@ categoris : Python
 - 소프트웨어 향상에 도움
 
 ##### 요소가 하나뿐인 튜플 정의하기 #####
-```Python
+
+```python
 e = (1,)
 type(e) --> tuple
 f = 1,
@@ -30,7 +34,7 @@ type(f) --> tuple
 ```
 
 **슬라이싱이 가능**
-```Python
+```python
 x = (1, 2, 3, 4, 5, 6)
 print(x[4:6]) --> (5, 6)
 print(x[:2]) --> (1, 2)
@@ -38,7 +42,7 @@ print(x[4:]) --> (5, 6)
 ```
 
 **+연산자를 통한 튜플간 결합도 가능**
-```Python
+```python
 m = (1, 2, 3)
 n = (4, 5, 6)
 
@@ -48,12 +52,14 @@ concat --> (1, 2, 3, 4, 5, 6)
 
 **튜플 메소드**
 - index() : 매개변수와 같은 데이터를 찾아서 인덱스 반환, 없으면 오류
-```Python
+
+```python
 a = ('abc', 'def', 'ghi')
 print(a.index('ghi') --> 2
 ```
 
 - count() : 매개변수로 입력한 데이터 일치하는 요소의 갯수를 반환
+
 ```python
 b = (1, 100, 2, 200, 3, 300)
 print(b.count(100)) --> 1
@@ -61,12 +67,14 @@ print(b.count(3)) --> 1
 ```
 
 - 튜플 패킹(tuple packing) : 여러 가지 데이터를 튜플로 묶는 것.
+
 ```python
 a = 1, 2, 3 # 괄호가 없어도 튜플로 묶어줌
 print(a) --> (1, 2, 3)
 ```
 
 - 튜플 언패킹(tuple Unpacking) : 각 요소를 여러 개의 변수에 할당하는 것.
+
 ```python
 data = 'Seoul', 37.541, 126.986  # 지역 / 경도 / 위도
 
@@ -91,10 +99,10 @@ print(longitude) --> 126.986
 **사용 예**
 
 `dic = {}` : 딕셔너리 생성
-`dic['파이썬'] = "www.python.org"` : 동적으로 입력, 번호대신 문자로 키값 가능
-`dic['애플'] = 'www.apple.com'`
-`dic['파이썬']` : 'www.python.org'를 반환
-`dic` : { 'www.python.org', 'www.apple.com' }
+`dic['파이썬'] = "www.python.org"` : 동적으로 입력, 번호대신 문자로 키값 가능  
+`dic['애플'] = 'www.apple.com'`  
+`dic['파이썬']` : 'www.python.org'를 반환  
+`dic` : { 'www.python.org', 'www.apple.com' }  
 
 **딕서녀리 메소드**
 
@@ -116,5 +124,6 @@ print(longitude) --> 126.986
 - clear() : 딕셔너리 데이터 삭제
 `print(dic)` : {} 반환
 
-파이썬 기본문법 시리즈는
-- [파이썬 기본문법 시리즈1](pkt369.github.io/pythonBasic1)
+다른 파이썬 기본문법 시리즈는
+- [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
+- [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)

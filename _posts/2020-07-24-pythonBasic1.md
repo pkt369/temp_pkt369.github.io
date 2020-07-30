@@ -2,7 +2,7 @@
 
 layout : posts
 
-title : "파이썬 기본 문법1"
+title : "파이썬 기본 문법1(변수, 문자열)"
 
 date : 2020-07-24
 
@@ -11,6 +11,10 @@ categoris : Python
 ---
 
 파이썬의 기본문법 시리즈 1편입니다.
+
+다른 파이썬 기본문법 시리즈는
+- [파이썬 1편 (튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
+- [파이썬 3편 (조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
 
 파이썬은 다른 언어들과 비슷하면서도 가장 쉽다고 알려진 언어중 하나입니다.
 
@@ -178,4 +182,6 @@ a.reverse()
 print(a) --> [2, 4, 9, 5, 7]
 ```
 
-다음편에 계속...
+다른 파이썬 기본문법 시리즈는
+- [파이썬 1편 (튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
+- [파이썬 3편 (조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
