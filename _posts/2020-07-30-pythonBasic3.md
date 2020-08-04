@@ -15,6 +15,7 @@ categoris : Python
 다른 파이썬 기본문법 시리즈는
 - [파이썬 1편 (변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
 - [파이썬 2편 (튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
+- [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
 
 <h4>조건문</h4>
 
@@ -130,3 +131,4 @@ items()는 키와 값을 둘다 반환하는 메소드이다. 따라서 포문�
 다른 파이썬 기본문법 시리즈는
 - [파이썬 1편 (변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
 - [파이썬 2편 (튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
+- [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)

@@ -15,6 +15,7 @@ categoris : Python
 다른 파이썬 기본문법 시리즈는
 - [파이썬 1편 (튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
 - [파이썬 3편 (조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
+- [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
 
 파이썬은 다른 언어들과 비슷하면서도 가장 쉽다고 알려진 언어중 하나입니다.
 
@@ -185,3 +186,4 @@ print(a) --> [2, 4, 9, 5, 7]
 다른 파이썬 기본문법 시리즈는
 - [파이썬 1편 (튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
 - [파이썬 3편 (조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
+- [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)

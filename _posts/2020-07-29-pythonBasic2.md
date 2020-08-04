@@ -15,7 +15,7 @@ categoris : python
 다른 파이썬 기본문법 시리즈는
 - [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
 - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
-
+- [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
 
 
 <h4>튜플(Tuple)</h4>
@@ -127,3 +127,4 @@ print(longitude) --> 126.986
 다른 파이썬 기본문법 시리즈는
 - [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
 - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
+- [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
