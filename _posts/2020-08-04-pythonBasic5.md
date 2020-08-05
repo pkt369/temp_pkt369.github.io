@@ -19,6 +19,7 @@ comments : true
 - [파이썬 2편(튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
 - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
 - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
+- [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 
 <h4>모듈(Module)</h4>
 

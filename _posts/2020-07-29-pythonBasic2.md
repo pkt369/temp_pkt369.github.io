@@ -16,6 +16,8 @@ categoris : python
 - [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
 - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
 - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
+- [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
+- [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 
 
 <h4>튜플(Tuple)</h4>
@@ -128,3 +130,5 @@ print(longitude) --> 126.986
 - [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
 - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
 - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
+- [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
+- [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)

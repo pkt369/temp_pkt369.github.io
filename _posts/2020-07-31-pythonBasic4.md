@@ -18,6 +18,8 @@ comments : true
 - [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
 - [파이썬 2편(튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
 - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
+- [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
+- [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 
 <h3>함수</h3>
 
@@ -210,3 +212,5 @@ pass 를 통해서 클래스나 함수를 비울수 있으나 사용을하면 �
 - [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
 - [파이썬 2편(튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
 - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
+- [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
+- [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
