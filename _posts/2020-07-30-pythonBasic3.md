@@ -18,6 +18,8 @@ categoris : Python
 - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
+- [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+- [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
 
 <h4>조건문</h4>
 
@@ -136,3 +138,5 @@ items()는 키와 값을 둘다 반환하는 메소드이다. 따라서 포문�
 - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
+- [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+- [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)

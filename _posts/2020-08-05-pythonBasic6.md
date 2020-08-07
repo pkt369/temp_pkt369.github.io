@@ -20,6 +20,8 @@ comments : true
 - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
 - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
+- [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+- [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
 
 <br>
 
@@ -136,3 +138,5 @@ if __name__ == '__main__':
   - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
   - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
   - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
+  - [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+  - [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
