@@ -19,7 +19,7 @@ categoris : Java
 먼저 데이터 베이스와 연동하기 위해서는
 ![ojdbc6](https://user-images.githubusercontent.com/66049273/87856713-d4588780-c95b-11ea-9721-5473794a52a2.png)
 
-에 있는 ojdbc6를 복사한후에
+에 있는 **ojdbc6** 를 복사한후에
 
 
 ![ojdbc6_2](https://user-images.githubusercontent.com/66049273/87856725-e9cdb180-c95b-11ea-9bfd-265bf63ba5ec.png)
