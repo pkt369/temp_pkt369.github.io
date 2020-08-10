@@ -22,6 +22,7 @@ comments : true
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 - [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
 - [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)
 
 <h4>모듈(Module)</h4>
 
@@ -108,3 +109,4 @@ exam)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 - [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
 - [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)

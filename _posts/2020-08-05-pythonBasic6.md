@@ -22,6 +22,7 @@ comments : true
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
 - [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)
 
 <br>
 
@@ -132,11 +133,12 @@ if __name__ == '__main__':
   - 접미사는 밑줄이 한 개까지만 허용 예) `__number_`
   - 접미사의 밑줄이 두 개 이상이면 public 멤버로 간주함. 예) `__number__`
 
-  다른 파이썬 기본문법 시리즈는
-  - [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
-  - [파이썬 2편(튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
-  - [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
-  - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
-  - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
-  - [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
-  - [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+다른 파이썬 기본문법 시리즈는
+- [파이썬 1편(변수, 문자열)](https://pkt369.github.io/pythonBasic1/)
+- [파이썬 2편(튜플, 딕셔너리)](https://pkt369.github.io/pythonBasic2/)
+- [파이썬 3편(조건문, 반복문)](https://pkt369.github.io/pythonBasic3/)
+- [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
+- [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
+- [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+- [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)

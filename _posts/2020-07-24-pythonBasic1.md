@@ -18,6 +18,9 @@ categoris : Python
 - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
+- [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+- [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)
 
 파이썬은 다른 언어들과 비슷하면서도 가장 쉽다고 알려진 언어중 하나입니다.
 
@@ -191,3 +194,6 @@ print(a) --> [2, 4, 9, 5, 7]
 - [파이썬 4편 (함수)](https://pkt369.github.io/pythonBasic4/)
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
+- [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+- [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)

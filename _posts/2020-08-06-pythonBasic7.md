@@ -22,6 +22,7 @@ comments : true
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 - [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)
 
 <h3>상속</h3>
 
@@ -297,3 +298,4 @@ if __name__=='__main__':
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 - [파이썬 8편 (예외처리)](https://pkt369.github.io/pythonBasic8/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)

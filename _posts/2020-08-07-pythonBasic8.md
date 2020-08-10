@@ -22,6 +22,7 @@ comments : true
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 - [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)
 
 <h3>예외처리</h3>
 
@@ -200,3 +201,4 @@ if everything_is_fine == False:
 - [파이썬 5편 (모듈, 패키지)](https://pkt369.github.io/pythonBasic5/)
 - [파이썬 6편 (클래스)](https://pkt369.github.io/pythonBasic6/)
 - [파이썬 7편 (상속)](https://pkt369.github.io/pythonBasic7/)
+- [파이썬 9편 (파일 입출력, 데이터베이스)](https://pkt369.github.io/pythonBasic9/)
