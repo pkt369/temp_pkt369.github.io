@@ -1,4 +1,18 @@
-﻿autoload (psr-4)
+﻿---
+
+layout : posts
+
+title : "autoload (psr-4)"
+
+date : 2021-04-18
+
+categoris : PHP
+
+comments : true
+
+---
+
+autoload (psr-4)
 ===
 세팅을 다하고나서 파일이 불러오지 않아서 어떤 이유인지 알아봤습니다.
 
@@ -51,3 +65,6 @@ vender/composer/autoload_psr4.php 에 자동으로 루트가 생성이 됩니다
   <br>
 
 매번 이렇게 적기 힘들기때문에 autoload를 사용하는데 autoload는 설정해놓은 루트에 접근하면 자동으로 루트(절대 경로)를 더해서 접근해주는 역할인것입니다.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTcxMzgzNjZdfQ==
+-->
