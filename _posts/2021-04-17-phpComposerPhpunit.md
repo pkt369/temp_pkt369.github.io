@@ -8,6 +8,8 @@ date : 2021-04-17
 
 categoris : PHP
 
+comments : true
+
 ---
 
 ﻿Composer 을 통한 PHPUnit 사용하기
@@ -89,5 +91,5 @@ class SumTest extends TestCase
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODA5ODc4NF19
+eyJoaXN0b3J5IjpbLTEzNzk1MjEwNTZdfQ==
 -->
