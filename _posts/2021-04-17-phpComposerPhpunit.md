@@ -1,3 +1,15 @@
+---
+
+layout : posts
+
+title : "Composer 을 통한 PHPUnit 사용하기"
+
+date : 2021-04-17
+
+categoris : PHP
+
+---
+
 ﻿Composer 을 통한 PHPUnit 사용하기
 ===
 PHP Unit은 PHP 코드 테스트 도구이며, 사실상 표준으로 자리를 잡았습니다.
@@ -76,3 +88,6 @@ class SumTest extends TestCase
 돌리면 바로 잘나오는 것을 알수 있다.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM5ODA5ODc4NF19
+-->
