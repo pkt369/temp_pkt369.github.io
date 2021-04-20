@@ -12,8 +12,6 @@ comments : true
 
 ---
 ﻿
-php version 바꾸기
-===
 기존 회사에서 5.6 버전을 사용하다가 회사 내  app 개발을 위해서 7.3버전으로 넘어가야 했었습니다.
 
 따라서 xampp를 다시 다운받고 여러가지설정들을 다시 해줘야 했습니다.
@@ -59,5 +57,5 @@ php 버전을 변경을 제일 먼저 해주고, PHPUnit 을 사용하기 위해
 ![terminal](https://user-images.githubusercontent.com/66049273/114963627-1fcaa280-9ea8-11eb-9843-e99687926673.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNTIxNTI5XX0=
+eyJoaXN0b3J5IjpbLTEzNzA0Mzc5MjYsNDAyNTIxNTI5XX0=
 -->
