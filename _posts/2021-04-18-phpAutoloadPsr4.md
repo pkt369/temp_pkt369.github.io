@@ -12,8 +12,6 @@ comments : true
 
 ---
 
-autoload (psr-4)
-===
 세팅을 다하고나서 파일이 불러오지 않아서 어떤 이유인지 알아봤습니다.
 
 문제는 namespace를 잘못 이해를 했기 때문인데 namespace는 자바처럼 상위폴더부터 적는게 아니라 절대 루트처럼 적어줘야했기 때문입니다.
@@ -66,5 +64,6 @@ vender/composer/autoload_psr4.php 에 자동으로 루트가 생성이 됩니다
 
 매번 이렇게 적기 힘들기때문에 autoload를 사용하는데 autoload는 설정해놓은 루트에 접근하면 자동으로 루트(절대 경로)를 더해서 접근해주는 역할인것입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTcxMzgzNjZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDkzOTAxMzksLTExOTcxMzgzNjZdfQ
+==
 -->
