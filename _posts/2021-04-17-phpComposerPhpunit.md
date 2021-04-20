@@ -12,8 +12,7 @@ comments : true
 
 ---
 
-﻿Composer 을 통한 PHPUnit 사용하기
-===
+
 PHP Unit은 PHP 코드 테스트 도구이며, 사실상 표준으로 자리를 잡았습니다.
 
 PHP Unit을 설치하는 방법은 2가지가 있습니다.
@@ -91,5 +90,6 @@ class SumTest extends TestCase
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk1MjEwNTZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTk1NDg0MzgsLTEzNzk1MjEwNTZdfQ
+==
 -->
