@@ -12,8 +12,6 @@ comments : true
 
 ---
 ﻿
-컴포저 아카이브 사용법
-===
 
 컴포저는 PHP 소프트웨어와 필요 라이브러리의 의존성을 관리하기 위한 표준 포맷을 제공하는 패키지 관리자를 뜻한다.
 
@@ -134,5 +132,5 @@ $loader = require 'vendor/autoload.php';
 $loader->add('Acme\\Test\\', __DIR__);
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MDg0MTYwXX0=
+eyJoaXN0b3J5IjpbLTM1OTM1NDQwMyw2MjgwODQxNjBdfQ==
 -->
