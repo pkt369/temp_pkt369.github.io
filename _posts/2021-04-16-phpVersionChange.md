@@ -6,12 +6,12 @@ title : "php version 바꾸기"
 
 date : 2021-04-16
 
-categoris : PHP
+categoris : php
 
 comments : true
 
 ---
-﻿
+
 기존 회사에서 5.6 버전을 사용하다가 회사 내  app 개발을 위해서 7.3버전으로 넘어가야 했었습니다.
 
 따라서 xampp를 다시 다운받고 여러가지설정들을 다시 해줘야 했습니다.

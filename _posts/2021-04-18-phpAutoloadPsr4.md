@@ -6,7 +6,7 @@ title : "autoload (psr-4)"
 
 date : 2021-04-18
 
-categoris : PHP
+categoris : php
 
 comments : true
 

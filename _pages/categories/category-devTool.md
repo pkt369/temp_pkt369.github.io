@@ -1,13 +1,13 @@
 ---
-title: "Java 프로그래밍"
+title: "devTool"
 layout: archive
-permalink: categories/java
+permalink: categories/devTool
 author_profile: true
 sidebar_main: true
 ---
 
 
 
-{% assign posts = site.categories.java%}
+{% assign posts = site.categories.devTool%}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
 

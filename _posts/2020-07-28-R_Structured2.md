@@ -6,7 +6,7 @@ title : "R 정형 비정형2"
 
 date : 2020-07-28
 
-categoris : R
+categoris : r
 
 ---
 

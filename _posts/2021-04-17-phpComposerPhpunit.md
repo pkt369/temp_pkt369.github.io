@@ -6,7 +6,7 @@ title : "Composer 을 통한 PHPUnit 사용하기"
 
 date : 2021-04-17
 
-categoris : PHP
+categoris : php
 
 comments : true
 
@@ -19,7 +19,7 @@ PHP Unit을 설치하는 방법은 2가지가 있습니다.
 
 1.  아카이브(phar 파일)을 다운로드하여 직접 실행하는 방법
 2.  PHP 패키지 및 의존성 관리 도구인 컴포저(Composer)를 사용하는 방법
-  
+
 
 컴포저를 이용한 단위테스트 이기때문에 2번으로 진행하겠습니다.
 

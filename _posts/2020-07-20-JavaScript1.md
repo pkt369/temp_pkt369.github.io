@@ -6,7 +6,7 @@ title : "자바스크립트 문법 정리1"
 
 date : 2020-07-20
 
-categoris : JAVASCRIPT
+categoris : javaScript
 
 ---
 자바 문법시리즈는
@@ -150,7 +150,7 @@ boolean으로 입력 받기 : `confirm()`
 **함수 재정의**
 * 익명함수 재정의 : `var func = function(){alert('함수')}`  
  !) var func = 이렇게 두번 선언하면 오류가 걸리지 않는것처럼 보이지만 실제로는 오류사항이다.
- <br>
+  <br>
 * 선언적함수 재정의 : `function move(){alert("함수호출")}`  
  **웹브라우저는 script태그 내부의 내용을 다 읽기전에 선언적함수를 먼저 읽는다.** -> 함수를 먼저 적고 정의를 뒤쪽에 적어도 실행이 된다.
 

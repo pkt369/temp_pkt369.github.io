@@ -6,7 +6,7 @@ title : "파이썬 기본 문법1(변수, 문자열)"
 
 date : 2020-07-24
 
-categoris : PYTHON
+categoris : python
 
 ---
 

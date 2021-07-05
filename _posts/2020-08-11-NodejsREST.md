@@ -6,7 +6,7 @@ title : "Nodejs REST"
 
 date : 2020-08-11
 
-categoris : NODEJS
+categoris : nodeJs
 
 comments : true
 

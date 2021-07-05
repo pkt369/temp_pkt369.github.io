@@ -6,7 +6,7 @@ title : "html 기본 문법 정리"
 
 date : 2020-07-13
 
-categoris : HTML
+categoris : html
 
 ---
 
@@ -145,3 +145,4 @@ html 뿐만아니라 css도 정리해놓은게 있어서 다음 블로그 포스
 
 	<head><meta charset=”UTF-8”><meta http-equiv=”Content-Type”~~></head>
 	: 정보를 입력하기위해 쓰는 태그.
+

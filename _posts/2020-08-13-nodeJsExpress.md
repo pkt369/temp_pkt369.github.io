@@ -6,7 +6,7 @@ title : "Express모듈을 통한 서버의 코드 리뷰"
 
 date : 2020-08-13
 
-categoris : NODEJS
+categoris : nodeJs
 
 comments : true
 

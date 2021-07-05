@@ -6,7 +6,7 @@ title : "파이썬 기본 문법8(예외처리)"
 
 date : 2020-08-07
 
-categoris : PYTHON
+categoris : python
 
 comments : true
 
