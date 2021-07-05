@@ -6,7 +6,7 @@ title : "파이썬 기본 문법3(조건문, 반복문)"
 
 date : 2020-07-30
 
-categoris : Python
+categoris : PYTHON
 
 ---
 

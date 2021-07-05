@@ -6,7 +6,7 @@ title : "파이썬 기본 문법1(변수, 문자열)"
 
 date : 2020-07-24
 
-categoris : Python
+categoris : PYTHON
 
 ---
 
@@ -120,7 +120,7 @@ a = [1, 2, 3, 4, 5]
 a[2] = 30
 print(a) --> [1, 2, 30, 4, 5]
 print(len(a)) --> 5
-```
+ ```
 
 **List 제공 메소드**
 - append() : 리스트의 끝에 새로운 요소 추가

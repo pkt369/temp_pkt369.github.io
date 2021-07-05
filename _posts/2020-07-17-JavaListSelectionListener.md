@@ -6,7 +6,7 @@ title : "자바 ListSelectionListener 사용법"
 
 date : 2020-07-17
 
-categoris : java
+categoris : JAVA
 
 ---
 

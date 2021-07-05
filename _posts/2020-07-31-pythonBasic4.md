@@ -6,7 +6,7 @@ title : "파이썬 기본 문법4(함수)"
 
 date : 2020-07-31
 
-categoris : Python
+categoris : PYTHON
 
 comments : true
 

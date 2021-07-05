@@ -6,7 +6,7 @@ title : "Nodejs REST"
 
 date : 2020-08-11
 
-categoris : Nodejs
+categoris : NODEJS
 
 comments : true
 
@@ -108,7 +108,7 @@ http.createServer(async (req, res) => {
     console.log('8082번 포트에서 서버 대기 중입니다');
   });
 
-```  
+```
 
 위의 코드에 주석문을 거의다 적어놓았지만 조금더 설명을 해보겠습니다.
 

@@ -6,7 +6,7 @@ title : "자바스크립트 문법 정리2"
 
 date : 2020-07-21
 
-categoris : JavaScript
+categoris : JAVASCRIPT
 
 ---
 
@@ -17,7 +17,7 @@ categoris : JavaScript
 **Object 객체** :
  - `toString()`메소드 : 객체를 문자열로 변환할때 자동으로 호출  
  자바에서는 주로 오버라이딩이라고 하는데 `toString()`을 재정의할 수 있습니다.  
- `toString:function(){return this.name + " : " + this.grade}`
+  `toString:function(){return this.name + " : " + this.grade}`
 
  <br>
 
@@ -152,12 +152,12 @@ window.onload는 body가 위도우상에 다 전달이 되어진 뒤 실행합�
 **문서객체생성** :
 * 방법1
   - 문서 객체생성
- `var header = document.createElement('h2');`  
-  //h2에 접근을 할수있게 해준다. css에서의 접근자와 같은 개념이다.
+   `var header = document.createElement('h2');`  
+   //h2에 접근을 할수있게 해준다. css에서의 접근자와 같은 개념이다.
   - 노드(요소/텍스트) 연결
- `header.appendChild(textNode);` - appendChild : body맨뒤에 넣어주겠다는 뜻
+   `header.appendChild(textNode);` - appendChild : body맨뒤에 넣어주겠다는 뜻
   - body 문서 객체에 header 문서 객체를 추가
- `document.body.appendChild(header);`
+   `document.body.appendChild(header);`
 
 <br>
 

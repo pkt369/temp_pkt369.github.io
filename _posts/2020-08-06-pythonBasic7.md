@@ -6,7 +6,7 @@ title : "파이썬 기본 문법7(상속)"
 
 date : 2020-08-06
 
-categoris : Python
+categoris : PYTHON
 
 comments : true
 
@@ -232,7 +232,7 @@ if __name__ == '__main__':
 list = [1, 2, 3]
 for e in list:
   print(e)
-```  
+```
 
 - iterator()
 

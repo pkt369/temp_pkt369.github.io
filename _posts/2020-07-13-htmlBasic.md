@@ -6,7 +6,7 @@ title : "html 기본 문법 정리"
 
 date : 2020-07-13
 
-categoris : html
+categoris : HTML
 
 ---
 
@@ -124,7 +124,7 @@ html 뿐만아니라 css도 정리해놓은게 있어서 다음 블로그 포스
 <hr>
 
 	버전2 : div없이 <header>,<nav>
-
+	
 	<header> : 헤더를 의미한다(회사명/로고)
 	<nav> : 네비게이션을 의미(주메뉴 구성)한다.
 	<aside> : 사이드에 위치(sub 메뉴/광고)하는 공간을 의미한다.

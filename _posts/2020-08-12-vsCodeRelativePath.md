@@ -6,7 +6,7 @@ title : "vsCode 상대경로 인식안됨"
 
 date : 2020-08-12
 
-categoris : vsCode
+categoris : VSCODE
 
 comments : true
 
