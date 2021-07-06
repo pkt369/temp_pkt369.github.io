@@ -8,6 +8,6 @@ sidebar_main: true
 
 
 
-{% assign posts = site.categories.devTool%}
+{% assign posts = site.categories.devTool %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
 

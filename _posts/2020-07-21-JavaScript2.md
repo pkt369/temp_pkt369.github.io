@@ -6,7 +6,7 @@ title : "자바스크립트 문법 정리2"
 
 date : 2020-07-21
 
-categoris : javaScript
+categories : javaScript
 
 ---
 

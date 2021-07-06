@@ -6,7 +6,7 @@ title : "컴포저 아카이브 사용법"
 
 date : 2021-04-16
 
-categoris : php
+categories : php
 
 comments : true
 

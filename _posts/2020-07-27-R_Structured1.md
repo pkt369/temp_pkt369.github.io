@@ -6,7 +6,7 @@ title : "R 정형 비정형1"
 
 date : 2020-07-27
 
-categoris : r
+categories : r
 
 ---
 

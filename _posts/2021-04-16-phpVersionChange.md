@@ -6,7 +6,7 @@ title : "php version 바꾸기"
 
 date : 2021-04-16
 
-categoris : php
+categories : php
 
 comments : true
 

@@ -6,7 +6,7 @@ title : "파이썬 기본 문법9(파일 입출력, 데이터베이스)"
 
 date : 2020-08-08
 
-categoris : python
+categories : python
 
 comments : true
 

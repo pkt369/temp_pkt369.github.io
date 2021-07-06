@@ -6,7 +6,7 @@ title : "파이썬 기본 문법6(클래스)"
 
 date : 2020-08-05
 
-categoris : python
+categories : python
 
 comments : true
 

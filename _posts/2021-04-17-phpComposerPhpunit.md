@@ -6,7 +6,7 @@ title : "Composer 을 통한 PHPUnit 사용하기"
 
 date : 2021-04-17
 
-categoris : php
+categories : php
 
 comments : true
 

@@ -6,7 +6,7 @@ title : "파이썬 기본 문법5(모듈, 패키지)"
 
 date : 2020-08-04
 
-categoris : python
+categories : python
 
 comments : true
 

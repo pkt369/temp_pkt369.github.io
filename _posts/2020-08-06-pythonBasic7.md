@@ -6,7 +6,7 @@ title : "파이썬 기본 문법7(상속)"
 
 date : 2020-08-06
 
-categoris : python
+categories : python
 
 comments : true
 

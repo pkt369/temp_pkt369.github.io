@@ -6,7 +6,7 @@ title : "파이썬 기본 문법2(튜플, 딕셔너리)"
 
 date : 2020-07-29
 
-categoris : python
+categories : python
 
 ---
 

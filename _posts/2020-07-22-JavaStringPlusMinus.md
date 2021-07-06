@@ -6,7 +6,7 @@ title : "자바 문자 나누기 & 합치기"
 
 date : 2020-07-22
 
-categoris : javaScript
+categories : javaScript
 
 ---
 

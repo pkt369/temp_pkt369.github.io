@@ -6,7 +6,7 @@ title : "html 기본 문법 정리"
 
 date : 2020-07-13
 
-categoris : html
+categories : html
 
 ---
 
