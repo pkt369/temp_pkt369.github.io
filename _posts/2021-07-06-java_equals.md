@@ -47,9 +47,9 @@ comments : true
 
 참조형은 자바의 가장 기본적인 class인 **java.lang.Object**를 상속받으면 참조형이 된다.
 
-쉽게 말해서 기본형이 아닌 경우는 참조형이 됩니다.
+쉽게 말해서 기본형이 아닌 경우는 참조형이 된다.
 
-참조형의 경우는 class, interface, array 이 있습니다.
+참조형의 경우는 class, interface, array 가 있다.
 
 <br>
 
