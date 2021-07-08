@@ -386,7 +386,7 @@ public static <E extends Number> void TypeCheck(List<E> list1, List<E> list2) {
 public static void main (String[] args) {
     List<Integer> list1 = new ArrayList<>();
     List<Double> list2 = new ArrayList<>();
-    TypeCheck(list1, list2); //ERRIR
+    TypeCheck(list1, list2); //ERROR
 }
 ```
 
