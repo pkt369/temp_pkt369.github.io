@@ -3,7 +3,7 @@ layout : posts
 
 title : "자바 type Erasure"
 
-date : 2021-07-08
+date : 2021-07-09
 
 categories : java
 
@@ -14,7 +14,7 @@ comments : true
 
 필자가 제네릭을 적으면서 다음편으로 type erasure을 꼭 적어야겠다고 생각을 했다.
 
-왜냐하면 제네릭을 이해하기 위해서는 필수적으로 알아야하는 사항이기 때문이다.
+왜냐하면 [제네릭](https://pkt369.github.io/java/java_Generic/)을 이해하기 위해서는 필수적으로 알아야하는 사항이기 때문이다.
 
 <br>
 
