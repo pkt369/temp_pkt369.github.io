@@ -59,7 +59,7 @@ ex ) int[], string[], ...
 
 1. 제네릭 타입에서는 해당하는 **타입파라미터**나 **Object**로 변경해준다.
 
-   만약 Object로 변경하는 경우는 타입이 지정되지 않는(unbounded) 된 경우를 의미하며, <E extends Number>와 같이 타입을 지정(bound)을 한 경우 타입(Number)으로 변경한다.
+   만약 Object로 변경하는 경우는 타입이 지정되지 않는(unbounded) 된 경우를 의미하며, `<E extends Number>`와 같이 타입을 지정(bound)을 한 경우 타입(Number)으로 변경한다.
 
    소거 규칙은 제네릭을 적용할 수 있는 일반 클래스, 인터페이스, 메서드에만 해당한다.
 

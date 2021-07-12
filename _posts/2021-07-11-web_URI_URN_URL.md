@@ -36,7 +36,7 @@ URL은 네트워크 상에 존재하는 위치를 의미하며, 어디(WHERE)가
 
 특징) http, https, mailto, file, ftp 등 (Protocal 또는 Scheme)
 
-
+<br>
 
 URN은 통합 자원 이름(Uniform Resource Name)라고 불린다.
 
@@ -50,7 +50,9 @@ URN이 나오게 된 배경은 URL 같은 경우 위치가 변경이되면 찾�
 
 ex)  urn:oid:2.16.840
 
+<br>
 
+<br>
 
 ### URL 과 URI 차이
 
@@ -62,7 +64,7 @@ ex)  urn:oid:2.16.840
 
 추천하는 블로그 : [URI와 URL 차이](https://velog.io/@jch9537/URI-URL)
 
-
+<br>
 
 RFC의 문서에 따르면 [RFC3986](https://datatracker.ietf.org/doc/html/rfc3986#section-3)에 있는 URI의 Scheme은 다음과 같다고 한다.
 
@@ -70,7 +72,7 @@ RFC의 문서에 따르면 [RFC3986](https://datatracker.ietf.org/doc/html/rfc39
 
 즉 fragment 까지 포함한다고 말할수 있다.
 
-
+<br>
 
 URL 같은 경우는 [RFC1738](https://datatracker.ietf.org/doc/html/rfc1738)에 정의되어 있는데
 
@@ -78,6 +80,6 @@ URL 같은 경우는 [RFC1738](https://datatracker.ietf.org/doc/html/rfc1738)에
 
 처럼 스킴부터 쿼리파라미터까지가 URL로 정의되어 있다.
 
-
+<br>
 
 그럼 차이점은 fragment의 유무이지만 일반적으로 URL이 fragment가 포함되어져 사용되어져 왔기때문에 추후 URI를 정의할때 URI의 Scheme에 포함되었을 거라고 생각한다.

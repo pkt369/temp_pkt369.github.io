@@ -14,7 +14,7 @@ comments : true
 
 전 포스팅 중 [CORS 란](https://pkt369.github.io/web/CORS%EB%9E%80/)을 적으면서 XSS와 CSRF에 대해 한번 언급한적이 있다.
 
-XSS 와 CSRF 는 해킹 방법이며, 이전 포스팅인 CORS와 SOP가 해킹을 보안하기 위해 만든 정책입니다.
+XSS 와 CSRF 는 해킹 방법이며, 이전 포스팅인 CORS와 SOP가 해킹을 보안하기 위해 만든 정책이다.
 
 XSS와 CSRF 가 정확히 무엇이길래 CORS와 SOP 정책이 나오게 되었을까?
 
