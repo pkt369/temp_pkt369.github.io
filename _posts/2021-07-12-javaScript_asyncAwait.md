@@ -36,7 +36,7 @@ async function a() {
 
 async를 예약어라고 부르며, 여기서 주의해야할 점은 getData가 프로미스 객체를 반환해야 await이 잘 작동된다.
 
-즉, Promise와 async await은 한 세트이다.
+즉, Promise와 async await 은 한 세트이다.
 
 <br>
 
