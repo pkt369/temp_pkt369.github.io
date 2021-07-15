@@ -69,7 +69,6 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            <span class="nav__sub-title">nodeJs</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "nodeJs" %}
