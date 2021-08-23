@@ -5,7 +5,7 @@ title : "git Token Login(토큰인증 로그인)"
 
 date : 2021-08-16
 
-categories : java
+categories : git
 
 comments : true
 ---
